@@ -1,3 +1,2 @@
-export function test() {
-    return "Hello lib"
-}
+export * as TnConstants from "./constants";
+export * as TnInterfaces from "./interfaces";
