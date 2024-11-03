@@ -1,0 +1,22 @@
+{
+  "name": "lib-go",
+  "description": "Library common",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/nhann6304"
+  },
+  "homepage": "https://google.com",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "huynhthanhnhan",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  }
+}
