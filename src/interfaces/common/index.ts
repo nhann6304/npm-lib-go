@@ -1,1 +1,1 @@
-export * from "./auth.interface";
+export * as Res from "./res"
